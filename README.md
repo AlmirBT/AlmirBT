@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/AlmirBT">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Backend+Developer+%7C+FastAPI+enjoyer;Shipping+Funtime+Wiki+%E2%9C%A8;Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Clean+architecture+%3E+clever+tricks;Always+building%2C+always+learning" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Backend+Developer+%7C+FastAPI+enjoyer;Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Clean+architecture+%3E+clever+tricks;Async+by+default+%E2%80%94+blocking+is+a+bug;Always+building%2C+always+learning" alt="typing" />
   </a>
 </p>
 
@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=AlmirBT&style=for-the-badge&color=00d9ff&labelColor=0f2027&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/AlmirBT?style=for-the-badge&color=00d9ff&labelColor=0f2027&label=FOLLOWERS&logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND-00d9ff?style=for-the-badge&labelColor=0f2027" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20COLLAB-yes-00d9ff?style=for-the-badge&labelColor=0f2027" />
 </p>
 
 <br />
@@ -27,7 +26,7 @@
 
 ## 🎯 `whoami`
 
-> Привет! Меня зовут **Альмир** — я fullstack-разработчик из мира Minecraft-серверов.
+> Привет! Меня зовут **Альмир** — fullstack-разработчик.
 > Пишу быстрые async-бэкенды на Python, собираю продуктовые UI на Next.js,
 > деплою через Docker. Люблю чистую архитектуру и задачи, где надо думать головой.
 
@@ -36,7 +35,6 @@ class Almir:
     def __init__(self):
         self.name      = "Альмир Батырханов"
         self.role      = "Backend / Fullstack Developer"
-        self.location  = "Minecraft-servers dimension 🌐"
         self.languages = ["Python", "TypeScript", "SQL"]
 
         self.stack = {
@@ -45,7 +43,6 @@ class Almir:
             "infra":    ["Docker", "PostgreSQL", "Redis", "nginx", "WireGuard"],
         }
 
-        self.currently_building = "Funtime Wiki"
         self.principles = [
             "Clean architecture over clever tricks",
             "Type everything, trust nothing from the wire",
@@ -54,39 +51,8 @@ class Almir:
         ]
 
     def say_hi(self) -> str:
-        return "Thanks for dropping by — let's build something!"
+        return "Thanks for dropping by!"
 ```
-
-<br />
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          CURRENT FOCUS                              -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🔥 What I'm cooking right now
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Funtime Wiki</h3>
-      <p>Блочная wiki для Minecraft-сервера <b>FunTime</b>. 25+ типов блоков, OAuth, модерация proposals, блочный редактор.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Learning & exploring</h3>
-      <ul>
-        <li>SQLAlchemy 2.0 async internals</li>
-        <li>Production-grade observability</li>
-        <li>Advanced React Server Components</li>
-        <li>WireGuard + reverse-proxy patterns</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <br />
 
@@ -146,25 +112,6 @@ class Almir:
     </td>
   </tr>
 </table>
-
-<br />
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECT                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured project
-
-<p align="center">
-  <a href="https://funtime.wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirBT&repo=funtimewiki&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-  </a>
-</p>
-
-> **[funtime.wiki](https://funtime.wiki)** — production-ready блочная wiki для Minecraft-сервера FunTime.
-> Полностью кастомная архитектура: блоки вместо markdown, OAuth через FunTime ID,
-> блочный редактор с модерацией proposals, динамические категории, рейтинг/XP, Telegram-линковка аккаунтов.
-> Деплой через Docker Compose + WireGuard-прокси.
 
 <br />
 
@@ -237,9 +184,6 @@ class Almir:
   </a>
   <a href="https://github.com/AlmirBT" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AlmirBT-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0f2027" />
-  </a>
-  <a href="https://funtime.wiki" target="_blank">
-    <img src="https://img.shields.io/badge/funtime.wiki-E8272A?style=for-the-badge&logoColor=fff&labelColor=0f2027" />
   </a>
 </p>
 
