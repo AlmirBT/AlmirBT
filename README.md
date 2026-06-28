@@ -32,17 +32,6 @@
 
 <br />
 
-<!-- ────────────────────────────  STATS  ───────────────────────────── -->
-
-<p align="center"><sub><b>GITHUB</b></sub></p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlmirBT&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirBT&layout=compact&hide_border=true&langs_count=8&title_color=2DD4BF&text_color=C9D1D9&bg_color=0D1117" alt="top languages" />
-</p>
-
-<br />
-
 <!-- ────────────────────────────  FOOTER  ──────────────────────────── -->
 
 <p align="center">
