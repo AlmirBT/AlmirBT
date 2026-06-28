@@ -1,38 +1,31 @@
-<!-- ────────────────────────────  HEADER  ──────────────────────────── -->
+<!-- ───────────────────────────────  HEADER  ─────────────────────────────── -->
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/AlmirBT/AlmirBT/main/assets/header.svg" alt="Almir Batyrkhanov — Backend / Fullstack Developer" />
 </p>
 
-<!-- ────────────────────────────  TAGLINE  ─────────────────────────── -->
+<br />
 
-<p align="center">
-  <a href="https://github.com/AlmirBT">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+fast%2C+type-safe+Python+backends;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Redis;Clean+architecture+%3E+clever+tricks;Async+by+default+%E2%80%94+blocking+is+a+bug" alt="tagline" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/ralezo"><img src="https://img.shields.io/badge/Telegram-%40ralezo-2DD4BF?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" /></a>
-  &nbsp;
-  <a href="https://almir.pro"><img src="https://img.shields.io/badge/Website-almir.pro-2DD4BF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" /></a>
-  &nbsp;
-  <a href="https://github.com/AlmirBT"><img src="https://img.shields.io/badge/GitHub-AlmirBT-2DD4BF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" /></a>
-</p>
+Backend-leaning fullstack developer from Kazakhstan. Most of what I build lives in private
+repos — async services, internal tools, and the infrastructure that keeps them running.
+I like typed boundaries, small honest modules, and systems that stay quiet under load.
 
 <br />
 
-<!-- ────────────────────────────  STACK  ───────────────────────────── -->
+**What I work with**
 
-<p align="center"><sub><b>TECH&nbsp;&nbsp;STACK</b></sub></p>
+```text
+Backend     Python · FastAPI · Django · SQLAlchemy 2.0 · Pydantic
+Data        PostgreSQL · Redis · SQLite
+Infra       Docker · Linux · nginx · GitHub Actions
+Frontend    Next.js · React · TypeScript · Tailwind
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,sqlite,docker,nginx,linux,nextjs,react,ts&theme=dark&perline=6" alt="stack" />
-</p>
+**Find me**  ·  [almir.pro](https://almir.pro)  ·  [Telegram](https://t.me/ralezo)  ·  [GitHub](https://github.com/AlmirBT)
 
 <br />
 
-<!-- ────────────────────────────  FOOTER  ──────────────────────────── -->
+<!-- ───────────────────────────────  FOOTER  ─────────────────────────────── -->
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/AlmirBT/AlmirBT/main/assets/footer.svg" alt="" />
