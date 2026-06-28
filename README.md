@@ -1,7 +1,7 @@
 <!-- ────────────────────────────  HEADER  ──────────────────────────── -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1622,55:0f3d3e,100:134e4a&height=200&section=header&text=Almir%20Batyrkhanov&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20%C2%B7%20Fullstack%20%C2%B7%20Python%20%C2%B7%20FastAPI&descAlignY=62&descSize=16&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://raw.githubusercontent.com/AlmirBT/AlmirBT/main/assets/header.svg" alt="Almir Batyrkhanov — Backend / Fullstack Developer" />
 </p>
 
 <!-- ────────────────────────────  TAGLINE  ─────────────────────────── -->
@@ -46,5 +46,5 @@
 <!-- ────────────────────────────  FOOTER  ──────────────────────────── -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0b1622&height=120&section=footer&animation=fadeIn" alt="footer" />
+  <img width="100%" src="https://raw.githubusercontent.com/AlmirBT/AlmirBT/main/assets/footer.svg" alt="" />
 </p>
