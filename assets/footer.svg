@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f3b3c"/>
+      <stop offset="0.5" stop-color="#0b2227"/>
+      <stop offset="1" stop-color="#08111c"/>
+    </linearGradient>
+    <radialGradient id="fg" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2dd4bf" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="fround"><rect x="0" y="0" width="1200" height="130" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fround)">
+    <rect width="1200" height="130" fill="url(#fbg)"/>
+
+    <circle cx="600" cy="150" r="260" fill="url(#fg)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="350" y="57" width="500" height="2" rx="1" fill="url(#fline)"/>
+    <circle cx="350" cy="58" r="3" fill="#7fe9da">
+      <animate attributeName="cx" values="360;840;360" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="600" y="90" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="5" fill="#5f8b91">ALWAYS BUILDING · ALWAYS LEARNING</text>
+  </g>
+</svg>
