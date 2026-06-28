@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Almir Batyrkhanov — Backend / Fullstack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111c"/>
+      <stop offset="0.55" stop-color="#0b2227"/>
+      <stop offset="1" stop-color="#0f3b3c"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#5eead4"/>
+    </pattern>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="230" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="230" fill="url(#bg)"/>
+
+    <g>
+      <circle cx="250" cy="40" r="210" fill="url(#g1)">
+        <animate attributeName="cx" values="220;370;220" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="40;75;40" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="980" cy="210" r="240" fill="url(#g2)">
+        <animate attributeName="cx" values="1000;850;1000" dur="17s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="205;160;205" dur="17s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect width="1200" height="230" fill="url(#dots)" opacity="0.05"/>
+
+    <text x="600" y="106" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="4" fill="#f8fafc">Almir Batyrkhanov</text>
+
+    <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="500" letter-spacing="6.5" fill="#7fe9da">BACKEND · FULLSTACK · PYTHON · FASTAPI</text>
+
+    <rect x="540" y="171" width="120" height="3" rx="1.5" fill="url(#rule)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
